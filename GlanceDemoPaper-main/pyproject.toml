@@ -1,0 +1,29 @@
+[project]
+name = "glance"
+version = "0.0.1"
+authors = [
+  { name="Example Author", email="author@example.com" },
+]
+description = "Restructuring of the GLANCE code base for compliance with aix360 and interpretable ai book"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "scikit-learn",
+    "numpy",
+    "pandas",
+    "tqdm",
+    "dice-ml",
+]
+
+[project.urls]
+Homepage = "https://github.com/AutoFairAthenaRC/glance-redemption-arc"
+Issues = "https://github.com/AutoFairAthenaRC/glance-redemption-arc/issues"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
