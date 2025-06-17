@@ -9,11 +9,6 @@ counterfactuals, calculated on top of a classifier’s decisions on an
 examined population, enabling users to explore and compare different configurations of GCE algorithms interactively.
 
 ## Project Structure
-GLOVES/
-
-├─ frontend/ # Contains the user-facing web application
-
-└─ backend/ # Contains the API and data processing logic
 
 ### `frontend/`
 This folder contains the source code for the web-based user interface of the GLOVES platform. Inside you can find also a detailed ReadMe.md file with the installation steps and the libraries used.
