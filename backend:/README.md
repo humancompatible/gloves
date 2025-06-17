@@ -23,10 +23,6 @@ conda activate glance_env
 ```bash
 pip install -r requirements.txt
 ```
-After install all dependencies run:
-```bash
-pip install -e .
-```
 ### 4. Run Example notebook
 
 ### 5. Run our FastAPI
