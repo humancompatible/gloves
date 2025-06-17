@@ -1,7 +1,4 @@
-# GlanceDemoPaper
-
-This repository contains the code for the Demo Paper submission for EDBT 2025.
-Follow the instructions below to set up the environment and run the algorithm.
+# GLOVES Backend FastAPI
 
 ## Prerequisites
 

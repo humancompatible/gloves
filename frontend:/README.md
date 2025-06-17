@@ -1,4 +1,4 @@
-# ExtremeXP Visualization Page
+# GLOVES Visualization Page
 
 ## Installation
 
