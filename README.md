@@ -10,7 +10,9 @@ examined population, enabling users to explore and compare different configurati
 
 ## Project Structure
 GLOVES/
+
 ├── frontend/ # Contains the user-facing web application
+
 └── backend/ # Contains the API and data processing logic
 
 ### `frontend/`
